@@ -6,14 +6,14 @@
       <p><strong>Table of Contents</strong>
       <strong>Menu Development Settgings</strong>
 
-Color Settings</br>
-CPT & ACF Seetings</br>
-Custom Templates & Home Page Theming
-Parent Theme URL-Download
-Color Palette</br>
-Gradients</br>
-Duotone Filters</br>
-Style Variations</br>
-Accessibility and Contrast</br>
-Conclusion</p>
+- Color Settings</br>
+- CPT & ACF Seetings</br>
+- Custom Templates & Home Page Theming
+- Parent Theme URL-Download
+- Color Palette</br>
+- Gradients</br>
+- Duotone Filters</br>
+- Style Variations</br>
+- Accessibility and Contrast</br>
+- Conclusion</p>
   
