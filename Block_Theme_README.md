@@ -5,11 +5,11 @@
       <p>Custom Block Child Theme from Parent WP Theme 2022 With Gallery Style Magiazine Parent Templates inherent from Parent Theme and Static Boostrap Static Pages</br></p>
       <p>Table of Contents
 
-Color Settings
-Color Palette
-Gradients
-Duotone Filters
-Style Variations
-Accessibility and Contrast
+Color Settings</br>
+Color Palette</br>
+Gradients</br>
+Duotone Filters</br>
+Style Variations</br>
+Accessibility and Contrast</br>
 Conclusion</p>
   
