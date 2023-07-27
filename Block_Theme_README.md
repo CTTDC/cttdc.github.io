@@ -6,7 +6,7 @@
       <p><strong>Table of Contents</strong>
       <strong>Menu Development Settgings</strong>
 
-Color Settings</br>
+- Item Color Settings</br>
 CPT & ACF Seetings</br>
 Custom Templates & Home Page Theming
 Parent Theme URL-Download
