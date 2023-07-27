@@ -15,5 +15,5 @@
 - Duotone Filters</br>
 - Style Variations</br>
 - Accessibility and Contrast</br>
-- Conclusion</p>
+- Child THeme Directory URL-Download</p>
   
