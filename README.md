@@ -36,7 +36,7 @@
 - Color Settings</br>
 - CPT & ACF Seetings</br>
 - Custom Templates & Home Page Theming
-- Parent Theme URL-Download
+- Parent Theme Custom Blocks
 - Color Palette</br>
 - Gradients</br>
 - Duotone Filters</br>
