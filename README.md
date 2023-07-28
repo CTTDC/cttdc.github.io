@@ -29,7 +29,7 @@
  
  
 <h2>Child Theme Custom Block Setup</h2></br>
-<p>Import/Inherit Below Settings from 2022 Parent Theme </p>
+<h3>Import/Inherit Below Settings from 2022 Parent Theme </h3>
 - Color Settings</br>
 - CPT & ACF Seetings</br>
 - Custom Templates & Home Page Theming
