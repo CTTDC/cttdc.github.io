@@ -26,8 +26,10 @@
  <p><strong>Step3:</strong>View & Download Parent Theme: Documentation <a href="https://wordpress.org/themes/twentytwentytwo/">
  </br>Tweenty Tweenty Two: Parent Theme</a></p></br>
  
-  <h5>RoadMap FlowChart Design</h5>
- <p><a href="https://github.com/CTTDC/cttdc.github.io/blob/main/CTTDC.app_ReadMe_Roadmap.md">View Flow-Chart ReadMe File</a></p>
+  <h5>RoadMap FlowChart</h5>
+ <p>Text File: Roadmap<a href="https://github.com/CTTDC/cttdc.github.io/blob/main/CTTDC.app_ReadMe_Roadmap.md">View Flow-Chart ReadMe File</a></p>
+ <p>Design File: Roladmap<a href="https://github.com/CTTDC/cttdc.github.io/blob/main/CTTDC_FlowChart.png">View Flow-Chart Design PNG</a></p>
+ 
  
 <h2>Child Theme Custom Block Setup</h2></br>
 <h3>Import/Inherit Below Settings from 2022 Parent Theme </h3>
