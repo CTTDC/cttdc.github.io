@@ -23,9 +23,9 @@
  <p>Step2:View & Sign-in: Custom Child Theme Generator Home Page/Replace Home Page with Design Front End Repo UI UX.</br>
  <a href="https://cttdcappdev.wpengine.com/">View-CTTDC-Home Page CMS</a></p></br>
 
- <p>Step3:View & Download Parent Theme: Documentation <a href="https://https://wordpress.org/themes/twentytwentytwo/">
-  Tweenty Tweenty Two: Parent Theme</a></p></br>
-
+ <p>Step3:View & Download Parent Theme: Documentation <a href="https://wordpress.org/themes/twentytwentytwo/">
+ </br>Tweenty Tweenty Two: Parent Theme</a></p></br>
+ 
 <h2>Child Theme Custom Block Setup</h2></br>
 <p>Import/Inherit Below Settings from 2022 Parent Theme </p>
 - Color Settings</br>
