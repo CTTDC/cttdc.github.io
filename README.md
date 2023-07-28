@@ -5,7 +5,7 @@
   <strong><p>Documentation</p></strong></br>
   <h4>David S Concepcion</h4>
  
-      <div>
+      
   <p><strong>Founder: Art Director @Creative Think Tank DC</strong></p>
     <h3>CTTDC-Build Apps:Gallery Store CMS Block Theme / Headless Front End JS App / iOS Newstand Magazine</h3>
        <article><strong>CMS:Block Theme Name:</strong>CTTDC-LLC</article></br>
@@ -14,7 +14,7 @@
          
           <h3><strong>Table of Contents</strong></br></h3>
            <h4><strong>Menu Development Settings</strong></h4>
-          </div>
+          
        
 <strong>Client Dev Relations: Brief</strong></br>
 <strong>Theme Road-Map</strong></br>
