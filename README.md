@@ -7,7 +7,7 @@
       <h3><strong>Table of Contents</strong></br></h3>
       <h4><strong>Menu Development Settings</strong></h4>
 
-<a href="(https://cttdc.github.io)">Static Theme Design</a>
+<a href="https://cttdc.github.io">Static Theme Design</a>
 
     
 - Color Settings</br>
