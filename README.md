@@ -10,10 +10,7 @@
     <h3>CTTDC-Build Apps:Gallery Store CMS Block Theme / Headless Front End JS App / iOS Newstand Magazine</h3></br>
        <strong>CMS:Block Theme Name:</strong>CTTDC-LLC</br>
        
- 
-          <h3><strong>Table of Contents</strong></br></h3>
-           <h4><strong>Menu Development Settings</strong></h4>
-          
+
        
 <strong>Client Dev Relations: Brief</strong></br>
 <strong>Theme Road-Map</strong></br>
