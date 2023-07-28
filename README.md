@@ -27,8 +27,8 @@
  </br>Tweenty Tweenty Two: Parent Theme</a></p></br>
  
   <h5>RoadMap FlowChart</h5>
- <p>Text File: Roadmap<a href="https://github.com/CTTDC/cttdc.github.io/blob/main/CTTDC.app_ReadMe_Roadmap.md">View Flow-Chart ReadMe File</a></p>
- <p>Design File: Roladmap<a href="https://github.com/CTTDC/cttdc.github.io/blob/main/CTTDC_FlowChart.png">View Flow-Chart Design PNG</a></p>
+ <p>Text File: Roadmap<a href="https://github.com/CTTDC/cttdc.github.io/blob/main/CTTDC.app_ReadMe_Roadmap.md"></a></br>View Flow-Chart ReadMe File</a></p>
+ <p>Design File: Roladmap<a href="https://github.com/CTTDC/cttdc.github.io/blob/main/CTTDC_FlowChart.png"></a></br>View Flow-Chart Design PNG</p>
  
  
 <h2>Child Theme Custom Block Setup</h2></br>
