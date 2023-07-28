@@ -8,8 +8,10 @@
            <h4><strong>Menu Development Settings</strong></h4>
            
 <strong>Useful Links</strong></br>
+<strong>Theme RoadMap</strong>
 1- <a href="https://cttdc.github.io">Static Theme Design: Boostrap Front End</a></br>
-2- <a href="https://cttdcappdev.wpengine.com/">Child Theme URI
+2- <a href="https://cttdcappdev.wpengine.com/">Child Theme URI</a></br>
+3- <a href="https://https://wordpress.org/themes/twentytwentytwo/">Tweenty Tweenty Two: Parent Theme</a></br>
 
 <h2>Child Theme Custom Block Setup</h2></br>
 - Color Settings</br>
