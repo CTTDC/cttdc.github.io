@@ -6,8 +6,9 @@
       Parent Templates. Use Static Boostrap Pages for Theming Design</br></p>
         <h3><strong>Table of Contents</strong></br></h3>
            <h4><strong>Menu Development Settings</strong></h4>
-#Useful Links
-1- <a href="https://cttdc.github.io">Static Theme Design</a>
+           
+<strong>Useful Links</strong>strong>
+1- <a href="https://cttdc.github.io">Static Theme Design: Boostrap Front End</a>
 
 - Color Settings</br>
 - CPT & ACF Seetings</br>
