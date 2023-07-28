@@ -7,7 +7,7 @@
         <h3><strong>Table of Contents</strong></br></h3>
            <h4><strong>Menu Development Settings</strong></h4>
            
-<strong>Useful Links</strong>
+<strong>Useful Links</strong></br>
 1- <a href="https://cttdc.github.io">Static Theme Design: Boostrap Front End</a>
 
 - Color Settings</br>
