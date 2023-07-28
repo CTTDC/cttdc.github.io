@@ -13,7 +13,7 @@
        
 <strong>Client Dev Relations: Brief</strong></br>
 <ul>
-  <li>Block Theme Road-Map</strong></br></li>
+  <li>Block Theme Road-Map</br></li>
   <li>Front End JS APP</li>
   <li>NewsStand iOS APP</li>
 </ul>
