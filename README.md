@@ -4,7 +4,7 @@
        <article><strong>Block Theme Name:</strong> Creative Think Tank DC</article></br>
       <p>Custom Block Child Theme from Parent WP Theme (tweenty tweenty two): With Gallery Style Magiazine Blocks, CPT and Inherent 
       Parent Templates. Use Static Boostrap Pages for Theming Design</br></p>
-     ***
+    
       1-  [Visit Static Theme Template Design: Bootstrap](https://cttdc.github.io/ "Block Theme Design")
 
       <p><strong>Table of Contents</strong></p>
