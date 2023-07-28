@@ -11,6 +11,7 @@
 1- <a href="https://cttdc.github.io">Static Theme Design: Boostrap Front End</a></br>
 2- <a href="https://cttdcappdev.wpengine.com/">Child Theme URI
 
+<h2>Child Theme Custom Block Setup</h2></br>
 - Color Settings</br>
 - CPT & ACF Seetings</br>
 - Custom Templates & Home Page Theming
