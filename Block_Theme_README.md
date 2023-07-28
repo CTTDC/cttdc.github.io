@@ -1,18 +1,35 @@
+
  <h1>cttdc.github.io</h1>
   <h2>CTTDC.App</h2>
-    <h3>Gallery Store CMS Block Theme / Headless Front End JS App / iOS Newstand Magazine</h3>
-       <article><strong>Block Theme Name:</strong> Creative Think Tank DC</article></br>
-        <article><strong>Theme Description:</strong><p>Custom Block Child Theme from Parent WP Theme (tweenty tweenty two): With Gallery Style Magiazine Blocks, CPT and Inherent Parent Templates. Use Static Boostrap Pages(useful links below to get up and running with development workflow) for Template Pages Theming Design</br></p>
-        <h3><strong>Table of Contents</strong></br></h3>
-           <h4><strong>Menu Development Settings</strong></h4>
-           
-<strong>Useful Links</strong></br>
-<strong>Theme RoadMap</strong></br>
-1- <a href="https://cttdc.github.io">Static Theme Design: Boostrap Front End</a></br>
-2- <a href="https://cttdcappdev.wpengine.com/">Child Theme URI</a></br>
-3- <a href="https://https://wordpress.org/themes/twentytwentytwo/">Tweenty Tweenty Two: Parent Theme</a></br>
+  <h3>Gallery Store CMS Block Theme</h3><br>
+  <strong><p>Documentation</p></strong></br>
+  <h4>David S Concepcion</h4>
+      
+  <strong>Founder: Art Director @Creative Think Tank DC</strong>
+    <h3>CTTDC-App-Build Documentation:</br>
+    Gallery Store CMS Block Theme / Headless Front End JS App / iOS Newstand Magazine</h3></br>
+       <strong>CMS:Block Theme Name:</strong>CTTDC-LLC</br>
+       
+<strong>Client Dev Relations: Brief</strong></br>
+<ul>
+  <li>Block Theme Road-Map</br></li>
+  <li>Front End JS APP</li>
+  <li>NewsStand iOS APP</li>
+</ul>
 
+<p><strong>Step1:</strong>Create New Template Pages for Below Child Theme URI-Importing Parent Theme Blocks, CPT, Parent Template Pages in New Child Block Theme: Note:Child Theme has been activated & developed using Theme Genertor: Add new Home Page from Design Repo UI UX</br>
+<a href="https://cttdc.github.io">UI UX-Design:Boostrap5, CSS, JS-Front End</a></p></br>
+
+ <p><strong>Step2:</strong>View & Sign-in: Custom Child Theme Generator Home Page/Replace Home Page with Design Front End Repo UI UX.</br>
+ <a href="https://cttdcappdev.wpengine.com/">View-CTTDC-Home Page CMS</a></p></br>
+
+ <p><strong>Step3:</strong>View & Download Parent Theme: Documentation <a href="https://wordpress.org/themes/twentytwentytwo/">
+ </br>Tweenty Tweenty Two: Parent Theme</a></p></br>
+
+ 
+ 
 <h2>Child Theme Custom Block Setup</h2></br>
+<h3>Import/Inherit Below Settings from 2022 Parent Theme </h3>
 - Color Settings</br>
 - CPT & ACF Seetings</br>
 - Custom Templates & Home Page Theming
