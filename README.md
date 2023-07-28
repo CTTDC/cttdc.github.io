@@ -9,6 +9,7 @@
            
 <strong>Useful Links</strong></br>
 1- <a href="https://cttdc.github.io">Static Theme Design: Boostrap Front End</a>
+2-
 
 - Color Settings</br>
 - CPT & ACF Seetings</br>
