@@ -25,21 +25,3 @@
 
  <p><strong>Step3:</strong>View & Download Parent Theme: Documentation <a href="https://wordpress.org/themes/twentytwentytwo/">
  </br>Tweenty Tweenty Two: Parent Theme</a></p></br>
- 
- <h5>View RoadMap FlowChart UX Design</h5>
- <p><a href="https://cttdc.github.io">UI UX-Design:Boostrap5, CSS, JS-Front End</a></p>
-
- 
- 
-<h2>Child Theme Custom Block Setup</h2></br>
-<h3>Import/Inherit Below Settings from 2022 Parent Theme </h3>
-- Color Settings</br>
-- CPT & ACF Seetings</br>
-- Custom Templates & Home Page Theming
-- Parent Theme URL-Download
-- Color Palette</br>
-- Gradients</br>
-- Duotone Filters</br>
-- Style Variations</br>
-- Accessibility and Contrast</br>
-- Child THeme Directory URL-Download</p>
