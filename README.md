@@ -22,6 +22,7 @@
 
  <p><strong>Step2:</strong>View & Sign-in: Custom Child Theme Generator Home Page/Replace Home Page with Design Front End Repo UI UX.</br>
  <a href="https://cttdcappdev.wpengine.com/">View-CTTDC-Home Page CMS</a></p></br>
+ <a href="https://github.com/CTTDC/CMS-Child">View CTTDC-Child Theme CMS Files with Plugins</a></p></br>
 
  <p><strong>Step3:</strong>View & Download Parent Theme: Documentation <a href="https://wordpress.org/themes/twentytwentytwo/">
  </br>Tweenty Tweenty Two: Parent Theme</a></p></br>
