@@ -17,7 +17,7 @@
   <li>NewsStand iOS APP</li>
 </ul>
 
-<p>Step1:Create New Template Pages for Below Child Theme URI-Importing Parent Theme Blocks, CPT, Parent Template Pages in New Child Block Theme: Note:Child Theme has been activated & developed using Theme Genertor: Add new Home Page from Design Repo UI UX</br>
+<p><strong>Step1:</strong>Create New Template Pages for Below Child Theme URI-Importing Parent Theme Blocks, CPT, Parent Template Pages in New Child Block Theme: Note:Child Theme has been activated & developed using Theme Genertor: Add new Home Page from Design Repo UI UX</br>
 <a href="https://cttdc.github.io">UI UX-Design:Boostrap5, CSS, JS-Front End</a></p></br>
 
  <p>Step2:View & Sign-in: Custom Child Theme Generator Home Page/Replace Home Page with Design Front End Repo UI UX.</br>
