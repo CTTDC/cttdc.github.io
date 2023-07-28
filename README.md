@@ -2,7 +2,7 @@
   <h2>CTTDC.App</h2>
     <h3>Gallery Store CMS Block Theme / Headless Front End JS App / iOS Newstand Magazine</h3>
        <article><strong>Block Theme Name:</strong> Creative Think Tank DC</article></br>
-        <article><strong>Theme Description:</strong><p>Custom Block Child Theme from Parent WP Theme (tweenty tweenty two): With Gallery Style Magiazine Blocks, CPT and Inherent Parent Templates. Use Static Boostrap Pages for Theming Design</br></p>
+        <article><strong>Theme Description:</strong><p>Custom Block Child Theme from Parent WP Theme (tweenty tweenty two): With Gallery Style Magiazine Blocks, CPT and Inherent Parent Templates. Use Static Boostrap Pages(1)- for Template Pages Theming Design</br></p>
         <h3><strong>Table of Contents</strong></br></h3>
            <h4><strong>Menu Development Settings</strong></h4>
            
