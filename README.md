@@ -35,7 +35,7 @@
 <h3>Import/Inherit Below Settings from 2022 Parent Theme </h3>
 - Color Settings</br>
 - CPT & ACF Seetings</br>
-- Custom Templates & Home Page Theming
+- Custom Templates & Home Page Theming</br>
 - Parent Theme Custom Blocks
 - Color Palette</br>
 - Gradients</br>
