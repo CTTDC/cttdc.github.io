@@ -11,19 +11,21 @@
     Gallery Store CMS Block Theme / Headless Front End JS App / iOS Newstand Magazine</h3></br>
        <strong>CMS:Block Theme Name:</strong>CTTDC-LLC</br>
        
-
-       
 <strong>Client Dev Relations: Brief</strong></br>
-<strong>Theme Road-Map</strong></br>
+<ul>
+  <li><strong>Block Theme Road-Map</strong></br></li>
+  <li>Front End JS APP</li>
+  <li>NewsStand iOS APP</li>
+</ul>
 
 <p>Step1: Create New Template Pages for Below Child Theme URI-Importing Parent Theme Blocks, CPT, Parent Template Pages in New Child Block Theme: Note:Child Theme has been activated & developed using Theme Genertor: Add new Home Page from Design Repo UI UX</br>
 <a href="https://cttdc.github.io">UI UX-Design:Boostrap5, CSS, JS-Front End</a></p></br>
 
  <p>Step2:View & Sign-in: Custom Child Theme Generator Home Page/Replace Home Page with Design Front End Repo UI UX.
 
-<a href="https://cttdcappdev.wpengine.com/">View-CTTDC-Home Page CMS</a></p></br>
+<p>Step2:<a href="https://cttdcappdev.wpengine.com/">View-CTTDC-Home Page CMS</a></p></br>
 
- <a href="https://https://wordpress.org/themes/twentytwentytwo/">Tweenty Tweenty Two: Parent Theme</a></br>
+ <p>Step3:<a href="https://https://wordpress.org/themes/twentytwentytwo/">Tweenty Tweenty Two: Parent Theme</a></br>
 
 <h2>Child Theme Custom Block Setup</h2></br>
 - Color Settings</br>
