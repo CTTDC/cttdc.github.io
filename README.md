@@ -7,10 +7,10 @@
  
       
   <p><strong>Founder: Art Director @Creative Think Tank DC</strong></p>
-    <h3>CTTDC-Build Apps:Gallery Store CMS Block Theme / Headless Front End JS App / iOS Newstand Magazine</h3>
-       <article><strong>CMS:Block Theme Name:</strong>CTTDC-LLC</article></br>
+    <h3>CTTDC-Build Apps:Gallery Store CMS Block Theme / Headless Front End JS App / iOS Newstand Magazine</h3></br>
+       <strong>CMS:Block Theme Name:</strong>CTTDC-LLC</article></br>
        
-        <article><strong>Theme Description:</strong><p>Custom Block Child Theme from Parent WP Theme (tweenty tweenty two): With Custom Gallery Style Magiazine Blocks, CPT. Inherenting all Parent (2022)Theme Page Templates/Blocks. Use Static Boostrap Pages(useful links below to get up and running with development workflow) for Template Pages Theming Design</br></p>
+        <strong>Theme Description:</strong><p>Custom Block Child Theme from Parent WP Theme (tweenty tweenty two): With Custom Gallery Style Magiazine Blocks, CPT. Inherenting all Parent (2022)Theme Page Templates/Blocks. Use Static Boostrap Pages(useful links below to get up and running with development workflow) for Template Pages Theming Design</br></p>
          
           <h3><strong>Table of Contents</strong></br></h3>
            <h4><strong>Menu Development Settings</strong></h4>
