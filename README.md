@@ -1,4 +1,3 @@
-
  <h1>cttdc.github.io</h1>
   <h2>CTTDC.App</h2>
   <h3>Gallery Store CMS Block Theme</h3><br>
@@ -44,7 +43,6 @@
 - Style Variations</br>
 - Accessibility and Contrast</br>
 - Child THeme Directory URL-Download</p>
-
 
 
 
