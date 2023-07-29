@@ -17,7 +17,7 @@
 </ul>
 
 <p><strong>Step1:</strong>Create New Template Pages for Below Child Theme URI-Importing Parent Theme Blocks, CPT, Parent Template Pages in New Child Block Theme: Note:Child Theme has been activated & developed using Theme Genertor: Add new Home Page from Design Repo UI UX</br>
-<a href="https://cttdc.github.io">UI UX-Design:Boostrap5, CSS, JS-Front End</a></p>
+<a href="https://cttdc.github.io">UI UX-Design:Boostrap5, CSS, JS-Front End</a>
 <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">Bootrap5 Documentation guide</a></p>
 
  <p><strong>Step2:</strong>View & Sign-in: Custom Child Theme Generator Home Page/Replace Home Page with Design Front End Repo UI UX.</br>
