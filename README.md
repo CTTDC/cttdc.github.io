@@ -34,7 +34,7 @@
 <h2>Child Theme Custom Block Setup</h2></br>
 <h3>Import/Inherit Below Settings from 2022 Parent Theme </h3>
 - Color Settings</br>
-- CPT & ACF Seetings</br>
+- CPT & ACF Seetings:View RoadMap Flowcharts for details</br>
 - Custom Templates & Home Page Theming</br>
 - Parent Theme Custom Blocks
 - Color Palette</br>
