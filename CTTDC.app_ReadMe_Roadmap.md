@@ -6,8 +6,11 @@
 
 To Do:
 (PHASE1)
-Designer: Re-Design Content forStatic Bootstrap Theming  from Github.io Repo
+ReadMe File Doc-Github Repo Updates
+Designer: Re-Design Content for Static Bootstrap Theming  from Github.io 
+Update:Repository
 Designer: Additional Template Pages for CMS Block Theme
+Designer: Match Front-end theme content on CMS
 Developer Handoff To Do: Project Scope: Read Me File
 Developer To Do:Create Child  Block Theme CMS from Github Repo / Read Me File Resources.
 
@@ -117,6 +120,8 @@ Developer To Do:Create Child  Block Theme CMS from Github Repo / Read Me File Re
 
 ### CTTDC.App (Back End CMS Store)
 
+### Front End App_Connected Using WP-Graph QL Query
+
 ## Stng_cttdc
 
 ### Test New ChildTheme CMS-PermaLink Pages:
@@ -128,19 +133,24 @@ Developer To Do:Create Child  Block Theme CMS from Github Repo / Read Me File Re
 
 - Setup DevOps Q/A Deployment Build to Update GitHub Branch_Set Up Atlas WP Account_Update Production Bucket
 
+### Staging to Production Project Permalink
+
 ## Prod_cttdc
 
 ### Current Build_Summer_2023
 
 - Coming Soon Build_Resume Portfolio
 
-	- Landing Page Design: 1-Add Behance / 2-My Portfolio Editorial Design Pages_Resume Showcase
+	- Landing Page Design:Add Behance  Projects
 
 		- Users:
 
 			- Recruit/Hiring Manager/Interview Prep
 
 		- IG Post Design:Adobe_Express
+
+	- Add Github Projects
+	- Add UI UX Portfolio Projects
 
 - Fall 2023 Build_002_Custom Child Theme_Beta:Release Date
 - WebApp_JS_React_Front End Theme Build Fall to January_2024
