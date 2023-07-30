@@ -10,7 +10,7 @@
        <strong>CMS:Block Theme Name:</strong>CTTDC-LLC</br>
        
 <strong>Client Development Relations: Brief</strong></br>
-<p>Creative Think Tank DC,LLC is a digital design agency focusing on developing Fine Arts Brands, UI-UX, Technology and Culture. 
+<p>Creative Think Tank DC,LLC is a digital design agency focusing on developing Fine Arts, UI-UX VC Presentation Funds, Technology and Culturaly driven brands for B2C masses. 
 </br><strong>Founder's Note:</strong>
 </p>
 <h5>Summary</h5>
