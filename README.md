@@ -16,11 +16,11 @@
   <li>NewsStand iOS APP</li>
 </ul>
 
-<p><strong>Step1:</strong>Create New Template Pages for Below Child Theme URI-Importing Parent Theme Blocks, CPT, Parent Template Pages in New Child Block Theme: Note:Child Theme has been activated & developed using Theme Genertor: Add new Home Page from Design Repo UI UX</br>
+<p><strong>Step1:</strong>Create New Template Pages for Below Parent Theme URI. Developing new child theme-Importing Parent Theme Blocks, CPT, Parent Template Pages in New Child BlockTheme Creation :Parent Theme is WordPress Tweenty Tweenty-two Note:Theme has been activated & developed using Theme Genertor: Add new Home Page from Design Repo UI UX</br>
 <a href="https://cttdc.github.io">UI UX-Design:Boostrap5, CSS, JS-Front End</a></br>
 <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">Bootrap5 Documentation guide</a></p>
 
- <p><strong>Step2:</strong>View & Sign-in: Custom Child Theme Generator Home Page/Replace Home Page with Design Front End Repo UI UX.</br>
+ <p><strong>Step2:</strong>View & Sign-in: Custom Theme Generator Home Page/Replace Home Page with Design Front End Repo UI UX.</br>
  <a href="https://cttdcappdev.wpengine.com/">View-CTTDC-Home Page CMS</a></br>
  <a href="https://github.com/CTTDC/CMS-Child">View CTTDC-Child Theme CMS Files with Plugins</a></p>
 
@@ -32,7 +32,7 @@
  <p>Design File: Roapmap<a href="https://github.com/CTTDC/cttdc.github.io/blob/main/CTTDC_FlowChart.png"></br>View Flow-Chart Design PNG</p>
  
  
-<h2>Child Theme Custom Block Setup</h2></br>
+<h2>New Child Theme Custom Block Setup</h2></br>
 <h3>Import/Inherit Below Settings from 2022 Parent Theme </h3>
 - Color Settings</br>
 - CPT & ACF Seetings: View RoadMap Flowcharts for details</br>
