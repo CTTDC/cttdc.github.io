@@ -9,20 +9,22 @@
     <h4>Gallery Store CMS Block Theme / Headless Front End JS App / iOS Newstand Magazine</h4></br>
        <strong>CMS:Block Theme Name:</strong>CTTDC-LLC</br>
        
-<strong>Client Dev Relations: Brief</strong></br>
-<p>Creative Think Tank DC,LLC is a digital design agency focusing on developing Fine Arts Brands, UI-UX, Technology and Culture. <strong>Founder's Note:</strong>
+<strong>Client Development Relations: Brief</strong></br>
+<p>Creative Think Tank DC,LLC is a digital design agency focusing on developing Fine Arts Brands, UI-UX, Technology and Culture. 
+</br><strong>Founder's Note:</strong>
 </p>
 <h5>Summary</h5>
-<p>Hello World, my name is David S Concepcion. I have extensive project management expertise with UI-UX design and agile full stack web development practices. Creative Think Tank DC (CTTDC) client base includes startups, banking institutions and fortune 500 companies. I possess 12+ years of art direction experience within digital transformation initiatives for B2C, B2B and SaaS industry expertise.
+<p>Hello World, my name is David S Concepcion. I have extensive project management expertise with UI-UX design and agile full stack web development practices. Creative Think Tank DC (CTTDC) client base includes startups, banking institutions and fortune 500 companies. I possess 12+ years of art direction experience within digital transformation initiatives for B2C, B2B and SaaS industry expertise.</br>
 Senior UX art director working under direct stakeholder supervision with Federal Reserve Bank, CloudUnion, Standard Industries and Citigroup. 
 SharePoint -- Microsoft 365 Powerapps design expertise for banking institutions: CitiGroup. 
 Headless content management system expertise using Drupal, Joomla, WordPress, Adobe Experience Manager, Sitecore and SharePoint. 
-Capable Art Direction Designer: Branding, iconography and application dashboard prototypes with Adobe Photoshop CC,  XD, InDesign CC, Illustrator CC, SharePoint and Figma.
+Capable Art Direction Designer: Branding, iconography and application dashboard prototypes with Adobe Photoshop CC,  XD, InDesign CC, Illustrator CC, SharePoint and Figma.</br>
 Maintained development user testing analysis with Jira confluence and Trello. While creating Agile workflows between various design to project management tools.
 Github, Github Pages and front-end web development experience with: Bootstrap 5, HTML5, CSS3 and Javascript. 
-Chat GPT expertise for UI UX design, copy editing to generate ideation exports. Adobe Firefly expertise to generate surreal experiences for our clients and brands.  </p>
+Chat GPT expertise for UI UX design, copy editing to generate ideation exports. Adobe Firefly expertise to generate surreal experiences for our clients and brands. </p>
+<h6>Application Roadmap Products</h6>
 <ul>
-  <li>Block Theme Road-Map</br></li>
+  <li>New Block Theme Creation:Steps 1-3</br></li>
   <li>Front End JS APP</li>
   <li>NewsStand iOS APP</li>
 </ul>
@@ -38,7 +40,7 @@ Chat GPT expertise for UI UX design, copy editing to generate ideation exports. 
  <p><strong>Step3:</strong>View & Download Parent Theme: Documentation <a href="https://wordpress.org/themes/twentytwentytwo/">
  </br>Tweenty Tweenty Two: Parent Theme</a></p></br>
  
-  <h5>RoadMap FlowChart</h5>
+  <h5>Dev Notes:RoadMap Flow-Chart</h5>
  <p>Text File: Roadmap<a href="https://github.com/CTTDC/cttdc.github.io/blob/main/CTTDC.app_ReadMe_Roadmap.md"></br>View Flow-Chart ReadMe File</a></p>
  <p>Design File: Roapmap<a href="https://github.com/CTTDC/cttdc.github.io/blob/main/CTTDC_FlowChart.png"></br>View Flow-Chart Design PNG</p>
  
