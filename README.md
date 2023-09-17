@@ -28,14 +28,14 @@ Chat GPT expertise for UI UX design, copy editing to generate ideation exports. 
   <li>Front End JS APP</li>
   <li>NewsStand iOS APP</li>
 </ul>
-
-<p><strong>Step1:</strong>Create New Pattern Child Theme from Below Parent Theme URI: WP 2022 is the Parent Theme. Developing new child theme-Importing Parent Theme Blocks, CPT, Parent Template Pages in New Child BlockTheme Creation :Parent Theme is WordPress Tweenty Tweenty-two Note:Theme has been activated & developed using Theme Genertor: Add new Home Page from Design Repo UI UX</br>
+<h1>Developer's Note: Ksthannan</h1>
+<p><strong>Step1:</strong>Create New Pattern Child Theme from Below Parent Theme URI: WP 2022 is the Parent Theme. Developing new child theme-Importing Parent Theme Blocks, CPT, Parent Template Pages in New Child Creation:Parent Theme is WordPress Tweenty Tweenty-two Note:Theme has been activated & developed using Theme Genertor: Add new Home Page from Design Repo UI UX</br>
 <a href="https://cttdc.github.io">UI UX-Design:Boostrap5, CSS, JS-Front End</a></br>
 <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">Bootrap5 Documentation guide</a></p>
 
  <p><strong>Step2:</strong>View & Sign-in: Custom Theme Generator Home Page/Replace Home Page with Design Front End Repo UI UX.</br>
  <a href="https://cttdcappdev.wpengine.com/">View-CTTDC-Home Page CMS</a></br>
- <a href="https://github.com/CTTDC/CMS-Child">View CTTDC-Child Theme CMS Files with Plugins</a></p>
+ <a href="https://github.com/CTTDC/CMS-Child">View CTTDC-Child Theme UI UX Front End Design</a></p>
 
  <p><strong>Step3:</strong>View & Download Parent Theme: Documentation <a href="https://wordpress.org/themes/twentytwentytwo/">
  </br>Tweenty Tweenty Two: Parent Theme</a></p></br>
