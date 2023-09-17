@@ -29,7 +29,7 @@ Chat GPT expertise for UI UX design, copy editing to generate ideation exports. 
   <li>NewsStand iOS APP</li>
 </ul>
 
-<p><strong>Step1:</strong>Create New Template Pages for Below Parent Theme URI. Developing new child theme-Importing Parent Theme Blocks, CPT, Parent Template Pages in New Child BlockTheme Creation :Parent Theme is WordPress Tweenty Tweenty-two Note:Theme has been activated & developed using Theme Genertor: Add new Home Page from Design Repo UI UX</br>
+<p><strong>Step1:</strong>Create New Pattern Child Theme from Below Parent Theme URI: WP 2020 is the Parent Theme. Developing new child theme-Importing Parent Theme Blocks, CPT, Parent Template Pages in New Child BlockTheme Creation :Parent Theme is WordPress Tweenty Tweenty-two Note:Theme has been activated & developed using Theme Genertor: Add new Home Page from Design Repo UI UX</br>
 <a href="https://cttdc.github.io">UI UX-Design:Boostrap5, CSS, JS-Front End</a></br>
 <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">Bootrap5 Documentation guide</a></p>
 
