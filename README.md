@@ -58,6 +58,7 @@ Chat GPT expertise for UI UX design, copy editing to generate ideation exports. 
 - Style Variations</br>
 - Accessibility and Contrast</br>
 
+
 </p>
 
 
