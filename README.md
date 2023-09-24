@@ -10,7 +10,7 @@
        <strong>CMS:Block Theme Name:</strong>CTTDC-LLC</br>
        
 <strong>Client Development Relations: Brief</strong></br>
-<p>Creative Think Tank DC,LLC is a digital design agency focusing on developing fine arts, UI-UX application prototypes, generative AI technology and educational k-12 STEMA language system initiatives. Our culture stems from creating culturally hybrid brands for B2C & Venture capital masses. </br>
+<p>Creative Think Tank DC,LLC is a digital design agency focusing on developing fine arts, UI-UX application prototypes, generative AI technology with educational K-12 STEMA visual language system initiatives. Our culture stems from creating culturally hybrid brands for B2C, B2B & Venture capital masses. </br>
 <h4>STEMA == Science, Technogy, Engineering, Mathematics and The Arts</h4>
 </br><strong>Founder's Note:</strong>
 </p>
